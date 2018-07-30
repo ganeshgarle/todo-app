@@ -4,7 +4,7 @@
 
 .App-logo {
   animation: App-logo-spin infinite 20s linear;
-  height: 80px;
+  height: 36px;
 }
 
 .App-header {
@@ -20,6 +20,21 @@
 
 .App-intro {
   font-size: large;
+}
+
+.Auther-background{
+  margin: 40px;
+  width: 100px !important;
+  height: 100px !important;
+}
+
+.Carousel-home{
+  margin-left: 25% !important;
+}
+.Carsoel-main{
+  background-color: #169292;
+  width: 800px !important;
+  height: 400px;
 }
 
 @keyframes App-logo-spin {

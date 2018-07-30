@@ -1,4 +1,3 @@
-// src/test-setup.js
 const jsdom = require('jsdom').jsdom;
 
 global.document = jsdom('<body></body>');
